@@ -1,0 +1,67 @@
+id,section,item,part_number,qty,unit_inr,total_inr,price_type,vendor,local_or_imported,lead_time,notes
+A1,Airframe & propulsion,"Carbon plate for arms, 3K, 300x200x5 mm",Robu CF sheet 300x200x5,1,3889,3889,L,Robu,Local,3-5 d,4 arms 25 mm wide; 295 mm motor-to-motor X
+A2,Airframe & propulsion,"Carbon plate for stack/centre plates, 100x250x2 mm",Robu CF sheet 100x250x2,2,1279,2558,L,Robu,Local,3-5 d,"top, bottom, battery plates"
+A3,Airframe & propulsion,CNC cutting of frame plates,"DXF from cad/; IndiaMART CF cutters (Ultrasafe, RGM)",1,2000,2000,E,IndiaMART RFQ,Local,7-10 d,quote on request
+A4,Airframe & propulsion,"Brushless motor 2809 1280KV (6S, 7-inch)",GEPRC SPEEDX2 2809 1280KV,4,3169,12676,L,Robu,Local,3-5 d,"in stock; alt. T-Motor Velox V2808 1300KV Rs 3,819"
+A5,Airframe & propulsion,Props 7x4x3 tri-blade (set 2CW+2CCW),HQProp 7X4X3 light grey PC,3,375,1125,L,Robu,Local,3-5 d,1 fitted + 2 spare sets
+A6,Airframe & propulsion,4-in-1 ESC 6S 65 A,Hobbywing XRotor FPV G2 65A 4in1,1,6279,6279,LA,Robu,Local,OOS,"Robu 22 Oct: new version Rs 11,269 (OOS), old Rs 5,499 (OOS) - price risk"
+A7,Airframe & propulsion,Bulk cap at ESC pads 470 uF 50 V low-ESR,Panasonic EEU-FR1H471,1,40,40,E,Robu / Evelta,Local,3-5 d,
+B1,Battery & power,"6S LiPo 3300 mAh 95C, XT90-S, 490 g",Tattu G-Tech TAS33006S95X9,1,9000,9000,EA,Robu / Robocraze RFQ,Local,RFQ,India price/stock unconfirmed
+B2,Battery & power,Balance charger 1-6S (ground equipment),SkyRC S100neo,1,5169,5169,LA,Robu,Local,3-5 d,not flown
+B3,Battery & power,"Power module, V/I sense, 5.2 V/3 A BEC","Holybro PM02 V3 (2-12S, 60 A cont./100 A burst)",1,2469,2469,L,Robu,Local,3-5 d,"replaces Ambetronics item 06 estimate Rs 3,500; re-terminate XT60 leads to XT90/solder"
+B4,Battery & power,Pi 5 buck 6S -> 5 V 5.5 A,Pololu D36V50F5 (#4091),1,4000,4000,E,Pololu direct ($34.95 + ship/duty),Imported,2-3 wk,not stocked in India on 22 Oct
+B5,Battery & power,Aux UBEC 2-6S -> 5 V 3 A,ReadytoSky 2-6S 5V/3A + 12V/3A UBEC,1,279,279,L,Robu,Local,3-5 d,"servo, pump, IR, LiDAR, scout"
+B6,Battery & power,Mini blade fuse holders + 2 A/3 A fuses,Littelfuse 0297002 / 0297003 + inline holders,1,150,150,E,Robu / local,Local,3-5 d,"F1, F2"
+B7,Battery & power,"TVS 28 V standoff, SMB",SMBJ28A,5,8,40,E,LCSC / Robu,Local,3-5 d,"D1, D2 + spares"
+B8,Battery & power,XT90 male + female pair,Amass XT90H,1,149,149,L,Robu,Local,3-5 d,vehicle-side receptacle
+B9,Battery & power,"12 AWG silicone wire, 1 m",ultra-flexible 12AWG (red + black),2,179,358,L,Robu,Local,3-5 d,
+B10,Battery & power,"USB-C power pigtail for Pi 5 (5 V only, 20 AWG)",USB-C male DIY pigtail,1,150,150,E,Robu / local,Local,3-5 d,set usb_max_current_enable=1
+C1,Avionics & companion,Flight controller,Holybro Pixhawk 6C Mini,1,28269,28269,LA,Robu,Local,OOS,"still Rs 28,269 and OOS on 22 Oct"
+C2,Avionics & companion,RC transmitter + receiver (iBUS),FlySky FS-i6 + FS-iA6B,1,5729,5729,LA,Robu,Local,3-5 d,
+C3,Avionics & companion,"Optical flow + ToF for GPS-free hold (NEW, recommended)",MicoAir MTF-01,1,4199,4199,L,Probots,Local,OOS,"alt. Matek 3901-L0X Rs 6,999 (OOS)"
+C4,Avionics & companion,Companion computer,Raspberry Pi 5 Model B 8GB,1,16825,16825,LA,Silverline Electronics,Local,3-5 d,
+C5,Avionics & companion,Pi active cooler + 64 GB endurance microSD,Raspberry Pi Active Cooler + SanDisk High Endurance 64GB,1,1700,1700,EA,Silverline / Robu,Local,3-5 d,
+D1,"Sensors, payload & release",2D LiDAR kit,LDROBOT STL-19P / D500 kit,1,8499,8499,LA,Robu,Local,3-5 d,UART to Pi GPIO5
+D2,"Sensors, payload & release",Low-light camera 2MP IR-CUT + 22-15 pin cable,Waveshare IMX327 2MP IR-CUT Camera (A),1,4459,4459,LA,Robu,Local,3-5 d,
+D3,"Sensors, payload & release","Thermal array 32x24, 110 deg",7Semi MLX90640 110deg breakout,1,4711,4711,LA,Robocraze,Local,3-5 d,I2C 0x33
+D4,"Sensors, payload & release",850 nm illumination + MOSFET driver,"4 x 1 W 850 nm star LEDs, 2 x AO3400A, 2512 4.7R, gate R",1,1000,1000,EA,Robu / Robocraze,Local,3-5 d,"AO3400A Rs 6 L; 850 nm 3 W chips Rs 2,799/10 on Amazon"
+D5,"Sensors, payload & release","Sample pump, 370 micro diaphragm 6 V",370 micro DC air pump 6V,1,359,359,L,Robu,Local,3-5 d,run at 5 V via PWM
+D6,"Sensors, payload & release","Flow cell, inlet tube, PTFE filter, fittings",printed cell + silicone tube + 0.45 um PTFE disc,1,400,400,E,Local,Local,7 d,gas sensors themselves are outside core
+D7,"Sensors, payload & release","IR break-beam pair, 3 mm",Adafruit 2167,1,1491,1491,L,Amazon.in,Imported,1-2 wk,DIY IR LED + phototransistor ~Rs 100 fallback
+D8,"Sensors, payload & release","Micro servo, metal gear (escapement)",MG90S,2,269,538,L,Robu,Local,3-5 d,1 + spare
+D9,"Sensors, payload & release",Neodymium magnets 6x3 mm (60 pcs),N35+ disc 6x3,1,299,299,L,Amazon.in,Local,3-5 d,"cassette hall-hold, one per puck slot"
+D10,"Sensors, payload & release","Scout radio node (Wi-Fi/ESP-NOW-LR, FTM)",Seeed XIAO ESP32C3 (U.FL antenna incl.),1,749,749,L,ThinkRobotics,Local,2-4 wk,pre-order; Robu OOS
+D11,"Sensors, payload & release",Scout LoRa module 868 MHz,HopeRF RFM95W-868S2,1,819,819,L,Robu,Local,OOS,"in-stock alt: LionCircuits Rs 2,423+"
+D12,"Sensors, payload & release",868 MHz antenna + IPEX-SMA pigtail,IPEX1-RP-SMA 15 cm + 865-868 MHz whip,1,215,215,E,Robu,Local,3-5 d,check SMA vs RP-SMA
+E1,Cage & mechanical,"3 mm pultruded GFRP rod, 1 m",GFRP 3 mm solid rod,25,120,3000,E,IndiaMART pultrusion RFQ,Local,1-2 wk,"120 struts = 20.3 m; 5 struts per rod; fallback Amazon 420 mm 10-pack Rs 1,776"
+E2,Cage & mechanical,"Cage hubs 18 x 12 mm, PA12 MJF","42 + 6 spare, from cad/",48,60,2880,E,JLC3DP / local MJF bureau,Imported,10-15 d,PETG in-house fallback ~Rs 10 each
+E3,Cage & mechanical,TPU 95A filament 500 g,TPU 95A 1.75 mm,1,1200,1200,E,Robu / Amazon.in,Local,3-5 d,"hub caps, puck bumpers"
+E4,Cage & mechanical,PETG filament 1 kg,PETG 1.75 mm,1,1100,1100,E,Robu / Amazon.in,Local,3-5 d,"cassette, mounts, puck shells"
+E5,Cage & mechanical,Bearing 6800-2RS 10x19x5 (10-pack),6800-2RS,1,660,660,L,Amazon.in (XERFU),Local,3-5 d,2 fitted + spares
+E6,Cage & mechanical,Carbon tube 10 OD x 8 ID x 1000 mm (pack of 2),Robu CF tube twill 10x8x1000,1,1239,1239,L,Robu,Local,OOS,axle ~580 mm; 500 mm tube Rs 349 too short
+E7,Cage & mechanical,"Epoxy, CA, heat-set inserts, M2/M3 fasteners for cage",misc,1,800,800,E,local,Local,3 d,
+G1,Integration,"Mounts, fasteners, signal wiring, JST-GH/Dupont, strain relief",Ambetronics item 21,1,2500,2500,EA,Robu / local,Local,3-5 d,
+G2,Integration,"Bench consumables + charging accessories (LiPo bag, checker)",Ambetronics item 22,1,1500,1500,EA,Robu / Robocraze,Local,3-5 d,
+G3,Integration,Puck charging: 5-port USB charger + USB-C cables,generic,1,500,500,E,Amazon.in,Local,3 d,or cassette pogo pads
+P1,SUTRA carrier board (x7),Wi-Fi MCU module,ESP32-C3-MINI-1 (-N4; Robu lists -H4),7,249,1743,L,Robu,Local,3-5 d,
+P2,SUTRA carrier board (x7),LoRa module 868 MHz (SX1276),HopeRF RFM95W-868S2,7,819,5733,L,Robu,Local,OOS,"OOS 22 Oct; LionCircuits Rs 2,423+ in stock"
+P3,SUTRA carrier board (x7),"1S LiPo 400 mAh, JST-PH",502030/502035 class,7,200,1400,E,Amazon.in / Robu,Local,OOS,KP 602035 Rs 299 L; WLY502040 Rs 135 (OOS)
+P4,SUTRA carrier board (x7),Li-ion charger,MCP73831T-2ACI/OT,7,62,434,L,LCSC C424093,Imported,OOS,Robu Rs 130 (OOS)
+P5,SUTRA carrier board (x7),3.3 V LDO 600 mA,AP2112K-3.3TRG1,7,17,119,L,Robu / LCSC C51118,Local,3-5 d,
+P6,SUTRA carrier board (x7),Hall wake switch,DRV5032FBDBZR,7,16,112,L,LCSC (FA C140921 price),Imported,10-15 d,
+P7,SUTRA carrier board (x7),USB ESD array,USBLC6-2SC6,7,15,105,E,LCSC,Imported,10-15 d,
+P8,SUTRA carrier board (x7),USB-C receptacle 16P,HRO TYPE-C-31-M-12,7,26,182,L,Robu,Local,3-5 d,
+P9,SUTRA carrier board (x7),Battery connector JST-PH 2p SMD,S2B-PH-SM4-TB,7,10,70,E,LCSC / Robu,Local,3-5 d,
+P10,SUTRA carrier board (x7),U.FL receptacle,Hirose U.FL-R-SMT-1,7,22,154,L,Robu,Local,3-5 d,
+P11,SUTRA carrier board (x7),"868 MHz antenna (U.FL FPC, flexible)",generic 868 MHz FPC U.FL,7,120,840,E,Robu / LCSC,Local,3-5 d,or 82 mm wire on J4: Rs 2
+P12,SUTRA carrier board (x7),"Passives 0603/0805 (12 R, 11 C)",per schematic,7,30,210,E,LCSC / Robu,Local,3-5 d,
+P13,SUTRA carrier board (x7),LEDs 0603 x2 + KMR2 buttons x2,per schematic,7,24,168,E,Robu,Local,3-5 d,
+P14,SUTRA carrier board (x7),"PCB 2-layer ~50 mm, qty 10 incl. shipping",JLCPCB,7,70,490,E,JLCPCB,Imported,10-15 d,~Rs 700 per 10 boards incl. economy freight
+P15,SUTRA carrier board (x7),Shell: PETG body + TPU bumper print,~12 g PETG + 5 g TPU,7,40,280,E,in-house,Local,3-5 d,
+P16,SUTRA carrier board (x7),AprilTag 36h11 30 mm label + solder/flux,,7,15,105,E,local,Local,3-5 d,
+SUB,Totals,Core subtotal (vehicle + boards + integration),,,,158116,,,,,
+CONT,Totals,Contingency 15 %,,,,23717,E,,,,
+TOTAL,Totals,Core total incl. contingency,,,,181833,,,,,
+X1,Gas (outside core),"O2 electrochemical, I2C",DFRobot SEN0465,1,10499,10499,L,Robu,Local,3-5 d,dev fallback
+X2,Gas (outside core),"CO electrochemical, I2C",DFRobot SEN0466,1,7979,7979,L,Robu,Local,3-5 d,
+X3,Gas (outside core),"H2S electrochemical, I2C",DFRobot SEN0467,1,8819,8819,L,Robu,Local,OOS,
