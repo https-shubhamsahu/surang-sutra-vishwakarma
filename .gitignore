@@ -1,0 +1,12 @@
+# organiser template, private drafts, previews
+ref/
+photos/
+research/
+deck/
+**/.venv/
+**/__pycache__/
+*.FCBak
+*.kicad_sch-bak
+*.kicad_prl
+**/fp-info-cache
+**/*-backups/
