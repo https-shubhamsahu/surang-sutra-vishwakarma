@@ -1,0 +1,6006 @@
+{
+"assembly": [
+{
+"name": "Strut_000",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+75.70200212122337,
+267.38793435214495,
+24.597071533883778
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_001",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+4.3298697960381105e-15,
+267.387934352145,
+79.59779553582412
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_002",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-75.70200212122336,
+267.38793435214495,
+24.597071533883796
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_003",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-46.786410326927566,
+267.38793435214495,
+-64.39596930179583
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_004",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+46.78641032692751,
+267.38793435214495,
+-64.39596930179587
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_005",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+195.84436709176975,
+188.19033843156052,
+63.63369222441608
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_006",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+195.84436709176975,
+141.07698246311844,
+139.86470350648392
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_007",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+240.65183129181668,
+64.8459711810506,
+125.30587584967105
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_008",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+240.65183129181668,
+141.0769824631184,
+1.9615085991611423
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_009",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+268.3443671160494,
+64.8459711810506,
+40.07701424019502
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_010",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+72.50000002227966,
+141.07698246311844,
+229.47963192039003
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_011",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-3.219646771412954e-15,
+188.19033843156052,
+205.922953936169
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_012",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+44.80746419804693,
+64.8459711810506,
+267.59513756142394
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_013",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-44.80746419804694,
+64.8459711810506,
+267.59513756142394
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_014",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-72.50000002227966,
+141.07698246311844,
+229.47963192039003
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_015",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-195.84436709176975,
+141.07698246311844,
+139.86470350648392
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_016",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-195.84436709176975,
+188.19033843156052,
+63.63369222441608
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_017",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-240.65183129181668,
+64.84597118105059,
+125.30587584967104
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_018",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-268.3443671160494,
+64.8459711810506,
+40.07701424019503
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_019",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-240.6518312918167,
+141.07698246311844,
+1.9615085991611423
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_020",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-193.53847542025875,
+141.07698246311844,
+-143.03849135427956
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_021",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-121.03847539797911,
+188.19033843156052,
+-166.5951693385006
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_022",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-193.53847542025875,
+64.84597118105061,
+-190.15184732272166
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_023",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-121.03847539797911,
+64.8459711810506,
+-242.8261806205685
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_024",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-76.23101119793218,
+141.07698246311844,
+-228.26735296375563
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_025",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+76.23101119793218,
+141.07698246311844,
+-228.26735296375557
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_026",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+121.03847539797911,
+188.19033843156052,
+-166.5951693385006
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_027",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+121.03847539797911,
+64.8459711810506,
+-242.82618062056844
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_028",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+193.53847542025878,
+64.8459711810506,
+-190.15184732272166
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_029",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+193.53847542025875,
+141.0769824631184,
+-143.03849135427956
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_030",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+193.53847542025875,
+-64.8459711810506,
+190.15184732272166
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_031",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+121.03847539797911,
+-64.8459711810506,
+242.82618062056844
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_032",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+76.23101119793218,
+-141.07698246311844,
+228.26735296375557
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_033",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+121.03847539797911,
+-188.19033843156052,
+166.5951693385006
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_034",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+193.53847542025875,
+-141.07698246311844,
+143.03849135427953
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_035",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-76.23101119793218,
+-141.07698246311844,
+228.26735296375557
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_036",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-121.03847539797911,
+-64.8459711810506,
+242.82618062056844
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_037",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-121.03847539797911,
+-188.19033843156052,
+166.5951693385006
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_038",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-193.53847542025875,
+-64.84597118105061,
+190.15184732272166
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_039",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-193.53847542025878,
+-141.07698246311844,
+143.03849135427953
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_040",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-240.65183129181668,
+-141.0769824631184,
+-1.9615085991611423
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_041",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-268.3443671160494,
+-64.8459711810506,
+-40.07701424019504
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_042",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-195.84436709176975,
+-188.19033843156052,
+-63.633692224416095
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_043",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-240.6518312918167,
+-64.84597118105059,
+-125.30587584967104
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_044",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-195.84436709176975,
+-141.07698246311844,
+-139.86470350648392
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_045",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-72.50000002227965,
+-141.07698246311844,
+-229.47963192039003
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_046",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-44.80746419804694,
+-64.84597118105059,
+-267.59513756142394
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_047",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+9.547918011776346e-15,
+-188.19033843156052,
+-205.922953936169
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_048",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+44.80746419804693,
+-64.8459711810506,
+-267.59513756142394
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_049",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+72.50000002227966,
+-141.07698246311844,
+-229.47963192039003
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_050",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+195.84436709176975,
+-141.0769824631184,
+-139.86470350648395
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_051",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+240.65183129181668,
+-64.84597118105059,
+-125.30587584967104
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_052",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+195.84436709176975,
+-188.19033843156052,
+-63.633692224416095
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_053",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+268.3443671160494,
+-64.84597118105061,
+-40.07701424019503
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_054",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+240.6518312918167,
+-141.07698246311844,
+-1.9615085991611423
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_055",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-46.78641032692754,
+-267.38793435214495,
+64.39596930179586
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_056",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+46.78641032692754,
+-267.38793435214495,
+64.39596930179586
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_057",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-75.70200212122337,
+-267.38793435214495,
+-24.59707153388378
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_058",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-1.2989609388114332e-14,
+-267.387934352145,
+-79.59779553582413
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_059",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+75.70200212122337,
+-267.38793435214495,
+-24.597071533883785
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_060",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+145.0,
+199.57537834740108,
+123.34436720741934
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_061",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+72.49999997141069,
+246.68873432,
+99.7876892211199
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_062",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+117.30746417391066,
+246.68873432,
+-38.115505696308595
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_063",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+189.80746420249997,
+199.57537834740108,
+-14.558827710009176
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_064",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+72.49999997141072,
+199.57537845259893,
+176.01870041370051
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_065",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+189.8074642025,
+76.23101119258067,
+185.01655074258974
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_066",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+117.30746417391069,
+76.23101119258065,
+237.69088404370967
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_067",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-72.5000000285893,
+199.57537834740108,
+176.01870046629946
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_068",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-72.50000002858931,
+246.68873432,
+99.78768917888009
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_069",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+162.1149282314107,
+0.0,
+223.13205638111987
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_070",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+262.3074640860893,
+0.0,
+85.2288614636914
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_071",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+234.61492826,
+-76.23101128741932,
+123.34436710740104
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_072",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+44.8074640575,
+-76.23101128741938,
+261.2475619825897
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_073",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-1.4499998712835804e-07,
+0.0,
+275.80638964
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_074",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-44.8074642025,
+-76.23101119258065,
+261.24756197741016
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_075",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-44.807464202499986,
+-199.5753784525989,
+185.01655068999082
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_076",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+44.80746420249999,
+-199.57537845259893,
+185.01655068999085
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_077",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-117.30746408608931,
+76.23101128741938,
+237.69088399629027
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_078",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-162.11492828858928,
+0.0,
+223.13205633888003
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_079",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+1.4499998712835804e-07,
+-246.68873432,
+123.34436716000002
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_080",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-162.11492828858928,
+-199.57537834740106,
+99.78768917370053
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_081",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-117.3074640860893,
+-246.68873432,
+38.11550554369141
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_082",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+117.30746408608928,
+-246.68873432,
+38.1155055436914
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_083",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+162.11492828858928,
+-199.5753783474011,
+99.7876891737005
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_084",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-145.0,
+199.57537845259893,
+123.34436711258067
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_085",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-189.8074642025,
+76.23101119258067,
+185.01655074258974
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_086",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-189.8074642025,
+199.5753783474011,
+-14.558827710009176
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_087",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-117.30746417391072,
+246.68873432,
+-38.11550569630862
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_088",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-234.61492826,
+-76.23101128741936,
+123.3443671074011
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_089",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-262.30746408608934,
+0.0,
+85.22886146369142
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_090",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-262.30746408608934,
+-76.23101119258062,
+38.11550559629031
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_091",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-189.80746405750003,
+-199.57537845259895,
+14.558827609990875
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_092",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-262.3074641739107,
+76.23101128741936,
+-38.11550564370968
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_093",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-262.3074641739107,
+0.0,
+-85.22886161630859
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_094",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-145.0,
+-199.57537834740108,
+-123.34436720741934
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_095",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-72.49999997141072,
+-246.68873432,
+-99.78768922111989
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_096",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-162.11492823141072,
+199.57537845259893,
+-99.7876892262995
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_097",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-234.61492826,
+76.23101119258065,
+-123.34436721259891
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_098",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-44.80746405750004,
+199.57537834740108,
+-185.01655079000915
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_099",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+1.4499998712835804e-07,
+246.68873432,
+-123.34436716000002
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_100",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-189.8074640575,
+-76.23101128741938,
+-185.01655073741026
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_101",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-162.11492823141072,
+0.0,
+-223.13205638111987
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_102",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-117.30746417391069,
+-76.23101119258065,
+-237.69088404370967
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_103",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-72.49999997141069,
+-199.57537845259893,
+-176.01870041370057
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_104",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-44.807464057500006,
+76.23101128741935,
+-261.2475619825898
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_105",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+1.4499998712835804e-07,
+0.0,
+-275.80638964
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_106",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+72.5000000285893,
+-199.57537834740108,
+-176.0187004662995
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_107",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+72.50000002858931,
+-246.68873432,
+-99.78768917888013
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_108",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+44.8074642025,
+199.57537845259893,
+-185.01655068999088
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_109",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+44.8074642025,
+76.23101119258064,
+-261.2475619774102
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_110",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+162.11492828858928,
+199.57537834740108,
+-99.78768917370056
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_111",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+117.30746408608931,
+-76.23101128741936,
+-237.69088399629027
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_112",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+162.11492828858928,
+0.0,
+-223.13205633888003
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_113",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+189.8074642025,
+-76.23101119258064,
+-185.0165507425898
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_114",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+145.0,
+-199.57537845259893,
+-123.34436711258067
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_115",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+234.61492826,
+76.23101128741936,
+-123.34436710740107
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_116",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+262.30746408608934,
+0.0,
+-85.22886146369143
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_117",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+189.8074642025,
+-199.5753783474011,
+14.558827710009147
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_118",
+"rmat": "gfrp",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+262.30746408608934,
+76.23101119258065,
+-38.115505596290326
+],
+"alloc": "Cage"
+},
+{
+"name": "Strut_119",
+"rmat": "gfrp",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+262.3074641739107,
+-76.23101128741935,
+38.11550564370966
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_01",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+246.68873431999998,
+129.69194255,
+80.15402858
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_01",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+252.03358025453377,
+132.37522412,
+81.812387792
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_02",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+0.0,
+129.69194255000002,
+259.38388539
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_02",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+0.0,
+132.37522412,
+265.1668768928131
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_03",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-246.68873431999998,
+129.69194255000002,
+80.15402858000002
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_03",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-252.03358025453377,
+132.37522412,
+81.812387792
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_04",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-152.46202248000003,
+129.69194255000002,
+-209.84597142
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_04",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-155.616409152,
+132.37522412,
+-214.20450364500255
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_05",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+152.46202248000003,
+129.69194255,
+-209.84597142
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_05",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+155.616409152,
+132.37522412,
+-214.20450364500255
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_06",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+152.46202248000003,
+-129.69194255000002,
+209.84597142
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_06",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+155.616409152,
+-132.37522412,
+214.20450364500255
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_07",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-152.46202248000003,
+-129.69194255000002,
+209.84597142
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_07",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-155.616409152,
+-132.37522412,
+214.20450364500255
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_08",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-246.68873432,
+-129.69194255000002,
+-80.15402858000002
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_08",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-252.03358025453377,
+-132.37522412,
+-81.812387792
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_09",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+8.881784197001252e-16,
+-129.69194255000002,
+-259.38388539
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_09",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+0.0,
+-132.37522412,
+-265.1668768928131
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_V_10",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+246.68873431999998,
+-129.69194255000002,
+-80.15402858000002
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_10",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+252.03358025453377,
+-132.37522412,
+-81.812387792
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_12",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+145.0,
+246.68873431999998,
+47.06197732203512
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_12",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+148.0,
+252.03358025453377,
+48.088115007999995
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_13",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+145.0,
+152.46202248000003,
+199.5753784
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_13",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+148.0,
+155.616409152,
+203.7063651785419
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_14",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+0.0,
+246.68873431999998,
+152.46202248000003
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_14",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+0.0,
+252.03358025453377,
+155.616409152
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_15",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+234.61492826,
+5.402030159906701e-05,
+170.45772308
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_15",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+239.59986504903566,
+0.0,
+173.98443459199999
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_16",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+89.61492826,
+-0.001446809745858424,
+275.80638963999996
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_16",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+91.469030224,
+0.0,
+281.82145137254577
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_17",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+0.0,
+-152.46202248,
+246.68873431999998
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_17",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+0.0,
+-155.616409152,
+252.03358025453377
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_18",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-89.61492825999999,
+5.402030159906701e-05,
+275.80638964
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_18",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-91.469030224,
+0.0,
+281.82145137254577
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_19",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-89.61492825999999,
+-246.68873431999998,
+123.34436716000002
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_19",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-91.469030224,
+-252.03358025453377,
+125.896319584
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_20",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+89.61492826000001,
+-246.68873431999998,
+123.34436715999999
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_20",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+91.469030224,
+-252.03358025453377,
+125.896319584
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_21",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-145.0,
+152.46202248000003,
+199.57537840000003
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_21",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-148.0,
+155.616409152,
+203.7063651785419
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_22",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-145.0,
+246.68873431999998,
+47.06191692550185
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_22",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-148.0,
+252.03358025453377,
+48.088115007999995
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_23",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-234.61492826,
+-0.001446809745858424,
+170.45772308
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_23",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-239.59986504903566,
+0.0,
+173.98443459199999
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_24",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-234.61492826,
+-152.46202248000003,
+76.23101124000002
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_24",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-239.59986504903566,
+-155.616409152,
+77.808204576
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_25",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-290.0,
+5.402030159906701e-05,
+-0.0016175824711250897
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_25",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-296.5,
+8.881784197001252e-16,
+0.0
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_26",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-145.0,
+-246.68873432,
+-47.06197732203512
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_26",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-148.0,
+-252.03358025453377,
+-48.088115007999995
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_27",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-234.61492826,
+152.46202248000003,
+-76.23101124
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_27",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-239.59986504903566,
+155.616409152,
+-77.808204576
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_28",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-89.61492826,
+246.68873431999998,
+-123.34436715999999
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_28",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+-91.469030224,
+252.03358025453377,
+-125.89631958400001
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_29",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-234.61492826,
+-0.001446809745858424,
+-170.45772308
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_29",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-239.59986504903566,
+0.0,
+-173.98443459199999
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_30",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-145.0,
+-152.46202248000003,
+-199.5753784
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_30",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-148.0,
+-155.616409152,
+-203.7063651785419
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_31",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-89.61492826,
+5.402030159906701e-05,
+-275.80638963999996
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_31",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+-91.469030224,
+0.0,
+-281.82145137254577
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_32",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+0.0,
+-246.68873431999998,
+-152.46202248
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_32",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+0.0,
+-252.03358025453377,
+-155.616409152
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_33",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+0.0,
+152.46202248000003,
+-246.68873431999998
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_33",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+0.0,
+155.616409152,
+-252.03358025453377
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_34",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+89.61492825999999,
+246.68873431999998,
+-123.34436715999998
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_34",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+91.469030224,
+252.03358025453377,
+-125.89631958400001
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_35",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+89.61492826,
+-0.001446809745858424,
+-275.80638963999996
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_35",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+91.469030224,
+0.0,
+-281.82145137254577
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_36",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+145.0,
+-152.46202248000003,
+-199.57537840000003
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_36",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+148.0,
+-155.616409152,
+-203.7063651785419
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_37",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+234.61492826,
+5.402030159906701e-05,
+-170.45772308
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_37",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+239.59986504903566,
+8.881784197001252e-16,
+-173.98443459199999
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_38",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+145.0,
+-246.68873431999998,
+-47.06035973956399
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_38",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+148.0,
+-252.03358025453377,
+-48.088115007999995
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_39",
+"rmat": "pa12",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+234.61492826,
+152.46202248000003,
+-76.23101124
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_39",
+"rmat": "tpu",
+"group": "cage_pos",
+"explode": [
+0,
+330,
+0
+],
+"center": [
+239.59986504903566,
+155.616409152,
+-77.808204576
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_40",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+290.0,
+-0.001446809745858424,
+6.039653327061245e-05
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_40",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+296.5,
+0.0,
+0.0
+],
+"alloc": "Cage"
+},
+{
+"name": "Hub_M_41",
+"rmat": "pa12",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+234.61492826,
+-152.46202248000003,
+76.23101124
+],
+"alloc": "Cage"
+},
+{
+"name": "Cap_41",
+"rmat": "tpu",
+"group": "cage_neg",
+"explode": [
+0,
+-330,
+0
+],
+"center": [
+239.59986504903566,
+-155.616409152,
+77.808204576
+],
+"alloc": "Cage"
+},
+{
+"name": "PoleHub_PosY",
+"rmat": "pa12",
+"group": "pole_pos",
+"explode": [
+0,
+450,
+0
+],
+"center": [
+-3.552713678800501e-15,
+290.0,
+0.4235631198146397
+],
+"alloc": "Cage"
+},
+{
+"name": "PoleCap_PosY",
+"rmat": "tpu",
+"group": "pole_pos",
+"explode": [
+0,
+450,
+0
+],
+"center": [
+-1.7763568394002505e-15,
+300.5,
+-1.7763568394002505e-15
+],
+"alloc": "Cage"
+},
+{
+"name": "Bearing_6800_2RS_PosY",
+"rmat": "steel",
+"group": "pole_pos",
+"explode": [
+0,
+450,
+0
+],
+"center": [
+0.0,
+282.5,
+0.0
+],
+"alloc": "Cage"
+},
+{
+"name": "PoleHub_NegY",
+"rmat": "pa12",
+"group": "pole_neg",
+"explode": [
+0,
+-450,
+0
+],
+"center": [
+3.552713678800501e-15,
+-290.0,
+-0.4235631198146397
+],
+"alloc": "Cage"
+},
+{
+"name": "PoleCap_NegY",
+"rmat": "tpu",
+"group": "pole_neg",
+"explode": [
+0,
+-450,
+0
+],
+"center": [
+0.0,
+-300.5,
+0.0
+],
+"alloc": "Cage"
+},
+{
+"name": "Bearing_6800_2RS_NegY",
+"rmat": "steel",
+"group": "pole_neg",
+"explode": [
+0,
+-450,
+0
+],
+"center": [
+0.0,
+-282.5,
+0.0
+],
+"alloc": "Cage"
+},
+{
+"name": "Axle",
+"rmat": "carbon",
+"group": "axle",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+0.0,
+0.0,
+0.0
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Arm_FR",
+"rmat": "carbon",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+61.732410735407726,
+-61.732410735407754,
+-11.5
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Arm_FL",
+"rmat": "carbon",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+61.73241073540773,
+61.73241073540774,
+-11.5
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Arm_RL",
+"rmat": "carbon",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+-61.73241073540773,
+61.732410735407754,
+-11.5
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Arm_RR",
+"rmat": "carbon",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+-61.73241073540773,
+-61.73241073540773,
+-11.5
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Plate_Bottom",
+"rmat": "carbon",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+0.0,
+0.0,
+-15.0
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Plate_Top",
+"rmat": "carbon",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+0.0,
+0.0,
+-8.0
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Plate_Deck",
+"rmat": "carbon",
+"group": "deck",
+"explode": [
+0,
+0,
+90
+],
+"center": [
+0.0,
+0.0,
+11.0
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "AxleClamp_PosY",
+"rmat": "pa12",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+1.7763568394002505e-15,
+40.0,
+0.0
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "AxleClamp_NegY",
+"rmat": "pa12",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+1.7763568394002505e-15,
+-40.0,
+0.0
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Standoffs_Deck_M3",
+"rmat": "metal",
+"group": "frame",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+0.0,
+0.0,
+1.5
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Standoffs_Stack_Posts",
+"rmat": "metal",
+"group": "deck",
+"explode": [
+0,
+0,
+90
+],
+"center": [
+10.0,
+0.0,
+38.0
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Nose_Bracket",
+"rmat": "pa12",
+"group": "nose",
+"explode": [
+150,
+0,
+90
+],
+"center": [
+53.50000000000003,
+0.0,
+41.999999999999986
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "LiDAR_Mast",
+"rmat": "pa12",
+"group": "mast",
+"explode": [
+0,
+0,
+230
+],
+"center": [
+9.5,
+0.0,
+65.5
+],
+"alloc": "Frame + mounts"
+},
+{
+"name": "Motor_FR",
+"rmat": "motor",
+"group": "motor",
+"explode": [
+0,
+0,
+70
+],
+"center": [
+104.29825005000001,
+-104.29825005000001,
+1.0
+],
+"alloc": "Motors"
+},
+{
+"name": "Prop_FR",
+"rmat": "prop",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+119.38686797919443,
+-111.76500795306735,
+15.0
+],
+"alloc": "ESC + props"
+},
+{
+"name": "PropNut_FR",
+"rmat": "steel",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+104.29825022501575,
+-104.29825022501575,
+21.5
+],
+"alloc": "Motors"
+},
+{
+"name": "PropDisc_FR",
+"rmat": "prop_disc",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+104.29825022501575,
+-104.29825022501575,
+15.0
+],
+"alloc": null
+},
+{
+"name": "Motor_FL",
+"rmat": "motor",
+"group": "motor",
+"explode": [
+0,
+0,
+70
+],
+"center": [
+104.29825005000001,
+104.29825005000001,
+1.0
+],
+"alloc": "Motors"
+},
+{
+"name": "Prop_FL",
+"rmat": "prop",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+89.57756049720702,
+96.6050553351638,
+15.0
+],
+"alloc": "ESC + props"
+},
+{
+"name": "PropNut_FL",
+"rmat": "steel",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+104.29825022501575,
+104.29825022501575,
+21.5
+],
+"alloc": "Motors"
+},
+{
+"name": "PropDisc_FL",
+"rmat": "prop_disc",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+104.29825022501575,
+104.29825022501575,
+15.0
+],
+"alloc": null
+},
+{
+"name": "Motor_RL",
+"rmat": "motor",
+"group": "motor",
+"explode": [
+0,
+0,
+70
+],
+"center": [
+-104.29825005000001,
+104.29825005000001,
+1.0
+],
+"alloc": "Motors"
+},
+{
+"name": "Prop_RL",
+"rmat": "prop",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+-108.1595407844181,
+122.43986465758023,
+15.0
+],
+"alloc": "ESC + props"
+},
+{
+"name": "PropNut_RL",
+"rmat": "steel",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+-104.29825022501575,
+104.29825022501575,
+21.5
+],
+"alloc": "Motors"
+},
+{
+"name": "PropDisc_RL",
+"rmat": "prop_disc",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+-104.29825022501575,
+104.29825022501575,
+15.0
+],
+"alloc": null
+},
+{
+"name": "Motor_RR",
+"rmat": "motor",
+"group": "motor",
+"explode": [
+0,
+0,
+70
+],
+"center": [
+-104.29825005000001,
+-104.29825005000001,
+1.0
+],
+"alloc": "Motors"
+},
+{
+"name": "Prop_RR",
+"rmat": "prop",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+-100.4369593155819,
+-122.43986465758024,
+15.0
+],
+"alloc": "ESC + props"
+},
+{
+"name": "PropNut_RR",
+"rmat": "steel",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+-104.29825022501575,
+-104.29825022501575,
+21.5
+],
+"alloc": "Motors"
+},
+{
+"name": "PropDisc_RR",
+"rmat": "prop_disc",
+"group": "prop",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+-104.29825022501575,
+-104.29825022501575,
+15.0
+],
+"alloc": null
+},
+{
+"name": "ESC_4in1_6S",
+"rmat": "esc",
+"group": "esc",
+"explode": [
+0,
+0,
+120
+],
+"center": [
+-9.49922295500204,
+0.0,
+17.0
+],
+"alloc": "ESC + props"
+},
+{
+"name": "Battery_6S_3300",
+"rmat": "battery",
+"group": "battery",
+"explode": [
+0,
+0,
+-150
+],
+"center": [
+-9.0,
+0.0,
+-36.0
+],
+"alloc": "Battery"
+},
+{
+"name": "FC_Pixhawk6C_Mini",
+"rmat": "fc",
+"group": "fc",
+"explode": [
+0,
+0,
+150
+],
+"center": [
+0.0,
+0.0,
+32.35
+],
+"alloc": "FC + avionics"
+},
+{
+"name": "PowerModule_Buck",
+"rmat": "electronics",
+"group": "under",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+30.0,
+0.0,
+-1.0
+],
+"alloc": "FC + avionics"
+},
+{
+"name": "RadioPod_ESP32C3_LoRa_RX",
+"rmat": "electronics",
+"group": "under",
+"explode": [
+0,
+0,
+0
+],
+"center": [
+-30.0,
+0.0,
+-1.0
+],
+"alloc": "FC + avionics"
+},
+{
+"name": "LoRa_Antenna_868",
+"rmat": "electronics",
+"group": "under",
+"explode": [
+-60,
+0,
+0
+],
+"center": [
+-69.5,
+4.440892098500626e-16,
+0.0
+],
+"alloc": "FC + avionics"
+},
+{
+"name": "Pi5_Board",
+"rmat": "pcb",
+"group": "pi",
+"explode": [
+0,
+0,
+190
+],
+"center": [
+0.0,
+0.0,
+49.05
+],
+"alloc": "Pi + cooler"
+},
+{
+"name": "Pi5_PortBlock",
+"rmat": "metal",
+"group": "pi",
+"explode": [
+0,
+0,
+190
+],
+"center": [
+-32.25,
+0.0,
+53.6
+],
+"alloc": "Pi + cooler"
+},
+{
+"name": "Pi5_ActiveCooler",
+"rmat": "metal",
+"group": "pi",
+"explode": [
+0,
+0,
+190
+],
+"center": [
+8.0,
+0.0,
+50.85
+],
+"alloc": "Pi + cooler"
+},
+{
+"name": "LiDAR_STL19P",
+"rmat": "lidar",
+"group": "lidar",
+"explode": [
+0,
+0,
+270
+],
+"center": [
+0.0,
+-1.7763568394002505e-15,
+84.0
+],
+"alloc": "Sensors + lights"
+},
+{
+"name": "Camera_IMX327",
+"rmat": "camera",
+"group": "nose",
+"explode": [
+150,
+0,
+90
+],
+"center": [
+72.0,
+0.0,
+54.5
+],
+"alloc": "Sensors + lights"
+},
+{
+"name": "Thermal_MLX90640",
+"rmat": "metal",
+"group": "nose",
+"explode": [
+150,
+0,
+90
+],
+"center": [
+66.0,
+0.0,
+34.2
+],
+"alloc": "Sensors + lights"
+},
+{
+"name": "IR_LED_850nm_R",
+"rmat": "irled",
+"group": "nose",
+"explode": [
+150,
+0,
+90
+],
+"center": [
+67.75,
+-12.0,
+34.0
+],
+"alloc": "Sensors + lights"
+},
+{
+"name": "IR_LED_850nm_L",
+"rmat": "irled",
+"group": "nose",
+"explode": [
+150,
+0,
+90
+],
+"center": [
+67.75,
+12.0,
+34.0
+],
+"alloc": "Sensors + lights"
+},
+{
+"name": "Gas_FlowCell",
+"rmat": "pa12",
+"group": "gas",
+"explode": [
+0,
+-150,
+-60
+],
+"center": [
+-9.000000000000002,
+-40.0,
+-26.0
+],
+"alloc": "Gas package"
+},
+{
+"name": "Gas_Sensors_O2_CO_H2S",
+"rmat": "metal",
+"group": "gas",
+"explode": [
+0,
+-150,
+-60
+],
+"center": [
+-9.0,
+-40.0,
+-41.0
+],
+"alloc": "Gas package"
+},
+{
+"name": "Gas_Pump",
+"rmat": "electronics",
+"group": "gas",
+"explode": [
+0,
+-150,
+-60
+],
+"center": [
+31.0,
+-40.0,
+-29.0
+],
+"alloc": "Gas package"
+},
+{
+"name": "GasInlet_Tube",
+"rmat": "ptfe",
+"group": "gas",
+"explode": [
+0,
+-150,
+-60
+],
+"center": [
+130.5,
+-40.0,
+-29.0
+],
+"alloc": "Gas package"
+},
+{
+"name": "GasInlet_Filter",
+"rmat": "amber",
+"group": "gas",
+"explode": [
+0,
+-150,
+-60
+],
+"center": [
+219.0,
+-40.0,
+-29.0
+],
+"alloc": "Gas package"
+},
+{
+"name": "Cassette_Tube",
+"rmat": "petg_clear",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+1.7763568394002505e-15,
+54.004688249470306,
+-75.5
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Cassette_TopCap",
+"rmat": "pa12",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+0.0016001326346355427,
+53.99751283590289,
+-20.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "BreakBeam_Collar",
+"rmat": "pa12",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+0.0,
+54.0,
+-132.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "BreakBeam_IR_Pair",
+"rmat": "electronics",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+0.0,
+54.0,
+-132.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Pin_Release",
+"rmat": "steel",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+-4.440892098500626e-16,
+82.5,
+-125.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Pin_Capture",
+"rmat": "steel",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+-4.440892098500626e-16,
+88.5,
+-94.5
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Escapement_Cam",
+"rmat": "pa12",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+0.0,
+98.0,
+-109.75
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Servo_MG90S",
+"rmat": "servo",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+12.85,
+98.4,
+-109.75
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Servo_Bracket",
+"rmat": "pa12",
+"group": "cassette",
+"explode": [
+0,
+90,
+-230
+],
+"center": [
+18.551351186873347,
+78.15,
+-109.75
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_Shell_Base",
+"rmat": "petg_white",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+3.552713678800501e-15,
+54.00000000000001,
+-119.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_Shell_Lid",
+"rmat": "petg_white",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+0.0,
+54.0,
+-109.42462666031994
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_Bumper_TPU",
+"rmat": "tpu",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+0.0,
+54.0,
+-114.5
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_PCB",
+"rmat": "pcb",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+0.0,
+54.0,
+-115.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_LiPo_1S_400",
+"rmat": "battery_small",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+0.0,
+54.0,
+-119.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_ESP32C3_MINI1",
+"rmat": "module",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+-9.7,
+47.3,
+-113.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_RFM95W_868",
+"rmat": "module",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+9.0,
+54.0,
+-113.6
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_Antenna_Stub",
+"rmat": "brass",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+14.0,
+70.0,
+-111.1
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_ChargePads",
+"rmat": "brass",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+0.0,
+54.0,
+-123.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_Puck_Passives_LED_Hall",
+"rmat": "module",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+-8.0,
+63.0,
+-114.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck1_AprilTag",
+"rmat": "tag",
+"group": "puck1",
+"explode": [
+0,
+90,
+-430
+],
+"center": [
+0.0,
+54.0,
+-105.625
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_Shell_Base",
+"rmat": "petg_white",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+3.552713678800501e-15,
+54.0,
+-99.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_Shell_Lid",
+"rmat": "petg_white",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+0.0,
+54.0,
+-89.42462666031994
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_Bumper_TPU",
+"rmat": "tpu",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+0.0,
+54.0,
+-94.5
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_PCB",
+"rmat": "pcb",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+0.0,
+54.0,
+-95.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_LiPo_1S_400",
+"rmat": "battery_small",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+0.0,
+54.0,
+-99.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_ESP32C3_MINI1",
+"rmat": "module",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+-9.7,
+47.3,
+-93.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_RFM95W_868",
+"rmat": "module",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+9.0,
+54.0,
+-93.6
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_Antenna_Stub",
+"rmat": "brass",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+14.0,
+70.0,
+-91.1
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_ChargePads",
+"rmat": "brass",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+0.0,
+54.0,
+-103.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_Puck_Passives_LED_Hall",
+"rmat": "module",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+-8.0,
+63.0,
+-94.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck2_AprilTag",
+"rmat": "tag",
+"group": "puck2",
+"explode": [
+0,
+90,
+-390
+],
+"center": [
+0.0,
+54.0,
+-85.625
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_Shell_Base",
+"rmat": "petg_white",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+3.552713678800501e-15,
+54.00000000000001,
+-79.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_Shell_Lid",
+"rmat": "petg_white",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+0.0,
+54.0,
+-69.42462666031994
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_Bumper_TPU",
+"rmat": "tpu",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+0.0,
+54.0,
+-74.5
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_PCB",
+"rmat": "pcb",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+0.0,
+54.0,
+-75.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_LiPo_1S_400",
+"rmat": "battery_small",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+0.0,
+54.0,
+-79.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_ESP32C3_MINI1",
+"rmat": "module",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+-9.7,
+47.3,
+-73.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_RFM95W_868",
+"rmat": "module",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+9.0,
+54.0,
+-73.6
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_Antenna_Stub",
+"rmat": "brass",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+14.0,
+70.0,
+-71.1
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_ChargePads",
+"rmat": "brass",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+0.0,
+54.0,
+-83.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_Puck_Passives_LED_Hall",
+"rmat": "module",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+-8.0,
+63.0,
+-74.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck3_AprilTag",
+"rmat": "tag",
+"group": "puck3",
+"explode": [
+0,
+90,
+-350
+],
+"center": [
+0.0,
+54.0,
+-65.625
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_Shell_Base",
+"rmat": "petg_white",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+3.552713678800501e-15,
+54.00000000000001,
+-59.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_Shell_Lid",
+"rmat": "petg_white",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+0.0,
+54.0,
+-49.42462666031993
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_Bumper_TPU",
+"rmat": "tpu",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+0.0,
+54.0,
+-54.5
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_PCB",
+"rmat": "pcb",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+0.0,
+54.0,
+-55.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_LiPo_1S_400",
+"rmat": "battery_small",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+0.0,
+54.0,
+-59.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_ESP32C3_MINI1",
+"rmat": "module",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+-9.7,
+47.3,
+-53.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_RFM95W_868",
+"rmat": "module",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+9.0,
+54.0,
+-53.6
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_Antenna_Stub",
+"rmat": "brass",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+14.0,
+70.0,
+-51.1
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_ChargePads",
+"rmat": "brass",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+0.0,
+54.0,
+-63.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_Puck_Passives_LED_Hall",
+"rmat": "module",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+-8.0,
+63.0,
+-54.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck4_AprilTag",
+"rmat": "tag",
+"group": "puck4",
+"explode": [
+0,
+90,
+-310
+],
+"center": [
+0.0,
+54.0,
+-45.625
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_Shell_Base",
+"rmat": "petg_white",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+3.552713678800501e-15,
+54.0,
+-39.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_Shell_Lid",
+"rmat": "petg_white",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+0.0,
+54.0,
+-29.424626660319937
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_Bumper_TPU",
+"rmat": "tpu",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+0.0,
+54.0,
+-34.5
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_PCB",
+"rmat": "pcb",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+0.0,
+54.0,
+-35.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_LiPo_1S_400",
+"rmat": "battery_small",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+0.0,
+54.0,
+-39.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_ESP32C3_MINI1",
+"rmat": "module",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+-9.7,
+47.3,
+-33.3
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_RFM95W_868",
+"rmat": "module",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+9.0,
+54.0,
+-33.6
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_Antenna_Stub",
+"rmat": "brass",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+14.0,
+70.0,
+-31.1
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_ChargePads",
+"rmat": "brass",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+0.0,
+54.0,
+-43.2
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_Puck_Passives_LED_Hall",
+"rmat": "module",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+-8.0,
+63.0,
+-34.0
+],
+"alloc": "Cassette + 5 pucks"
+},
+{
+"name": "Puck5_AprilTag",
+"rmat": "tag",
+"group": "puck5",
+"explode": [
+0,
+90,
+-270
+],
+"center": [
+0.0,
+54.0,
+-25.625
+],
+"alloc": "Cassette + 5 pucks"
+}
+],
+"puck": [
+{
+"name": "Puck_Shell_Base",
+"rmat": "petg_white",
+"explode": [
+0,
+0,
+-22
+],
+"center": [
+0.0,
+1.7763568394002505e-15,
+4.500000000000001
+]
+},
+{
+"name": "Puck_Shell_Lid",
+"rmat": "petg_white",
+"explode": [
+0,
+0,
+50
+],
+"center": [
+0.0,
+-3.552713678800501e-15,
+14.076479837918484
+]
+},
+{
+"name": "Puck_Bumper_TPU",
+"rmat": "tpu",
+"explode": [
+0,
+0,
+30
+],
+"center": [
+0.0,
+0.0,
+9.0
+]
+},
+{
+"name": "Puck_PCB",
+"rmat": "pcb",
+"explode": [
+0,
+0,
+6
+],
+"center": [
+0.0,
+0.0,
+8.2
+]
+},
+{
+"name": "Puck_LiPo_1S_400",
+"rmat": "battery_small",
+"explode": [
+0,
+0,
+-9
+],
+"center": [
+0.0,
+0.0,
+4.3
+]
+},
+{
+"name": "Puck_ESP32C3_MINI1",
+"rmat": "module",
+"explode": [
+0,
+0,
+6
+],
+"center": [
+-9.7,
+-6.699999999999999,
+10.2
+]
+},
+{
+"name": "Puck_RFM95W_868",
+"rmat": "module",
+"explode": [
+0,
+0,
+6
+],
+"center": [
+9.0,
+0.0,
+9.9
+]
+},
+{
+"name": "Puck_Antenna_Stub",
+"rmat": "brass",
+"explode": [
+0,
+0,
+6
+],
+"center": [
+14.0,
+16.0,
+12.4
+]
+},
+{
+"name": "Puck_ChargePads",
+"rmat": "brass",
+"explode": [
+0,
+0,
+-34
+],
+"center": [
+0.0,
+0.0,
+0.3
+]
+},
+{
+"name": "Puck_Passives_LED_Hall",
+"rmat": "module",
+"explode": [
+0,
+0,
+6
+],
+"center": [
+-8.0,
+9.0,
+9.5
+]
+},
+{
+"name": "Puck_AprilTag",
+"rmat": "tag",
+"explode": [
+0,
+0,
+66
+],
+"center": [
+0.0,
+0.0,
+17.875
+]
+}
+],
+"params": {
+"cage_R": 290.0,
+"cage_phase": 18.0,
+"strut_d": 3.0,
+"hub_d": 18.0,
+"hub_h": 12.0,
+"cap_h": 4.0,
+"socket_depth": 7.0,
+"pole_hub_d": 32.0,
+"pole_hub_h": 20.0,
+"pole_cap_h": 5.0,
+"bearing_od": 19.0,
+"bearing_id": 10.0,
+"bearing_w": 5.0,
+"axle_od": 10.0,
+"axle_id": 8.0,
+"axle_clamp_y": 40.0,
+"frame_diag": 295.0,
+"arm_w": 25.0,
+"arm_t": 5.0,
+"arm_root": 22.0,
+"plate_t": 2.0,
+"plate_w": 100.0,
+"plate_bot_z": -16.0,
+"deck_z": 10.0,
+"deck_l": 86.0,
+"deck_w": 56.0,
+"motor_d": 34.0,
+"motor_h": 20.0,
+"prop_d": 177.8,
+"prop_hub_h": 8.0,
+"prop_blade_half_t": 3.0,
+"batt_l": 140.0,
+"batt_w": 43.0,
+"batt_h": 38.0,
+"batt_x": -9.000505514344235,
+"puck_d": 56.0,
+"puck_h": 20.0,
+"puck_shell_d": 52.0,
+"n_pucks": 5,
+"tube_wall": 1.2,
+"tube_clear": 1.0,
+"cassette_y": 54.0,
+"cassette_top_z": -23.0,
+"cassette_len": 105.0,
+"prop_z": 15.0,
+"cassette_exit_z": -128.0
+},
+"hub_xyz": [
+[
+0.0,
+290.0,
+0.0
+],
+[
+246.68873442209156,
+129.6919426949878,
+80.1540286525061
+],
+[
+1.5882682249661878e-14,
+129.6919426949878,
+259.3838853899756
+],
+[
+-246.68873442209156,
+129.6919426949878,
+80.15402865250613
+],
+[
+-152.46202251454878,
+129.6919426949878,
+-209.84597134749387
+],
+[
+152.46202251454866,
+129.6919426949878,
+-209.84597134749393
+],
+[
+152.46202251454875,
+-129.6919426949878,
+209.8459713474939
+],
+[
+-152.46202251454872,
+-129.6919426949878,
+209.8459713474939
+],
+[
+-246.68873442209158,
+-129.6919426949878,
+-80.15402865250606
+],
+[
+-4.764804674898563e-14,
+-129.6919426949878,
+-259.3838853899756
+],
+[
+246.68873442209156,
+-129.6919426949878,
+-80.15402865250614
+],
+[
+0.0,
+-290.0,
+0.0
+],
+[
+145.0,
+246.68873442209158,
+47.11335595377142
+],
+[
+145.0,
+152.46202251454875,
+199.57537846832017
+],
+[
+9.33560639319869e-15,
+246.68873442209158,
+152.46202251454875
+],
+[
+234.61492836873472,
+0.0,
+170.4577231648172
+],
+[
+89.61492836873477,
+0.0,
+275.80638972559456
+],
+[
+1.8924608898276096e-14,
+-152.46202251454875,
+246.68873442209158
+],
+[
+-89.61492836873474,
+0.0,
+275.80638972559456
+],
+[
+-89.61492836873474,
+-246.68873442209158,
+123.34436721104579
+],
+[
+89.61492836873477,
+-246.68873442209158,
+123.34436721104579
+],
+[
+-145.0,
+152.46202251454875,
+199.5753784683202
+],
+[
+-145.0,
+246.68873442209158,
+47.11335595377144
+],
+[
+-234.61492836873472,
+0.0,
+170.4577231648172
+],
+[
+-234.61492836873472,
+-152.46202251454875,
+76.23101125727439
+],
+[
+-290.0,
+0.0,
+3.784921779655219e-14
+],
+[
+-145.00000000000003,
+-246.68873442209158,
+-47.113355953771396
+],
+[
+-234.61492836873475,
+152.46202251454875,
+-76.23101125727433
+],
+[
+-89.61492836873478,
+246.68873442209158,
+-123.34436721104576
+],
+[
+-234.61492836873478,
+0.0,
+-170.45772316481714
+],
+[
+-145.00000000000003,
+-152.46202251454875,
+-199.57537846832017
+],
+[
+-89.6149283687348,
+0.0,
+-275.8063897255945
+],
+[
+-2.8006819179596072e-14,
+-246.68873442209158,
+-152.46202251454875
+],
+[
+-5.6773826694828294e-14,
+152.46202251454875,
+-246.68873442209158
+],
+[
+89.61492836873471,
+246.68873442209158,
+-123.34436721104582
+],
+[
+89.6149283687347,
+0.0,
+-275.80638972559456
+],
+[
+144.99999999999997,
+-152.46202251454875,
+-199.5753784683202
+],
+[
+234.61492836873472,
+0.0,
+-170.45772316481725
+],
+[
+145.0,
+-246.68873442209158,
+-47.113355953771446
+],
+[
+234.61492836873472,
+152.46202251454875,
+-76.23101125727439
+],
+[
+290.0,
+0.0,
+-2.8386913347414147e-14
+],
+[
+234.61492836873475,
+-152.46202251454878,
+76.23101125727436
+]
+],
+"struts": [
+[
+0,
+12
+],
+[
+0,
+14
+],
+[
+0,
+22
+],
+[
+0,
+28
+],
+[
+0,
+34
+],
+[
+1,
+12
+],
+[
+1,
+13
+],
+[
+1,
+15
+],
+[
+1,
+39
+],
+[
+1,
+40
+],
+[
+2,
+13
+],
+[
+2,
+14
+],
+[
+2,
+16
+],
+[
+2,
+18
+],
+[
+2,
+21
+],
+[
+3,
+21
+],
+[
+3,
+22
+],
+[
+3,
+23
+],
+[
+3,
+25
+],
+[
+3,
+27
+],
+[
+4,
+27
+],
+[
+4,
+28
+],
+[
+4,
+29
+],
+[
+4,
+31
+],
+[
+4,
+33
+],
+[
+5,
+33
+],
+[
+5,
+34
+],
+[
+5,
+35
+],
+[
+5,
+37
+],
+[
+5,
+39
+],
+[
+6,
+15
+],
+[
+6,
+16
+],
+[
+6,
+17
+],
+[
+6,
+20
+],
+[
+6,
+41
+],
+[
+7,
+17
+],
+[
+7,
+18
+],
+[
+7,
+19
+],
+[
+7,
+23
+],
+[
+7,
+24
+],
+[
+8,
+24
+],
+[
+8,
+25
+],
+[
+8,
+26
+],
+[
+8,
+29
+],
+[
+8,
+30
+],
+[
+9,
+30
+],
+[
+9,
+31
+],
+[
+9,
+32
+],
+[
+9,
+35
+],
+[
+9,
+36
+],
+[
+10,
+36
+],
+[
+10,
+37
+],
+[
+10,
+38
+],
+[
+10,
+40
+],
+[
+10,
+41
+],
+[
+11,
+19
+],
+[
+11,
+20
+],
+[
+11,
+26
+],
+[
+11,
+32
+],
+[
+11,
+38
+],
+[
+12,
+13
+],
+[
+12,
+14
+],
+[
+12,
+34
+],
+[
+12,
+39
+],
+[
+13,
+14
+],
+[
+13,
+15
+],
+[
+13,
+16
+],
+[
+14,
+21
+],
+[
+14,
+22
+],
+[
+15,
+16
+],
+[
+15,
+40
+],
+[
+15,
+41
+],
+[
+16,
+17
+],
+[
+16,
+18
+],
+[
+17,
+18
+],
+[
+17,
+19
+],
+[
+17,
+20
+],
+[
+18,
+21
+],
+[
+18,
+23
+],
+[
+19,
+20
+],
+[
+19,
+24
+],
+[
+19,
+26
+],
+[
+20,
+38
+],
+[
+20,
+41
+],
+[
+21,
+22
+],
+[
+21,
+23
+],
+[
+22,
+27
+],
+[
+22,
+28
+],
+[
+23,
+24
+],
+[
+23,
+25
+],
+[
+24,
+25
+],
+[
+24,
+26
+],
+[
+25,
+27
+],
+[
+25,
+29
+],
+[
+26,
+30
+],
+[
+26,
+32
+],
+[
+27,
+28
+],
+[
+27,
+29
+],
+[
+28,
+33
+],
+[
+28,
+34
+],
+[
+29,
+30
+],
+[
+29,
+31
+],
+[
+30,
+31
+],
+[
+30,
+32
+],
+[
+31,
+33
+],
+[
+31,
+35
+],
+[
+32,
+36
+],
+[
+32,
+38
+],
+[
+33,
+34
+],
+[
+33,
+35
+],
+[
+34,
+39
+],
+[
+35,
+36
+],
+[
+35,
+37
+],
+[
+36,
+37
+],
+[
+36,
+38
+],
+[
+37,
+39
+],
+[
+37,
+40
+],
+[
+38,
+41
+],
+[
+39,
+40
+],
+[
+40,
+41
+]
+]
+}

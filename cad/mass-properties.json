@@ -1,0 +1,2151 @@
+{
+ "total_g": 2165.4367615560373,
+ "cg_mm": [
+  5.639000655762139e-08,
+  4.557319319194233,
+  -12.42034719456458
+ ],
+ "inner_g": 1709.9793814967607,
+ "inner_cg_mm": [
+  3.117909622678769e-15,
+  5.771172801515721,
+  -15.728538719920259
+ ],
+ "cage_g": 455.4573800592766,
+ "cage_cg_mm": [
+  2.681018930572599e-07,
+  6.373504062735074e-07,
+  1.1103949180857678e-06
+ ],
+ "inertia_kgm2_about_cg": [
+  [
+   0.03381047604490769,
+   1.9228542298862283e-05,
+   -0.00026035960774663675
+  ],
+  [
+   1.9228542298862283e-05,
+   0.03066739436256756,
+   0.0007887960680000536
+  ],
+  [
+   -0.00026035960774663675,
+   0.0007887960680000536,
+   0.036002382086823485
+  ]
+ ],
+ "batt_x_mm": -9.000505514344235,
+ "single_puck_g": 34.53509072125429,
+ "groups": {
+  "Cage": {
+   "mass": 455.457380059276,
+   "cad": 444.457380059276,
+   "cat": 11.0,
+   "items": [
+    {
+     "name": "Strut_000",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.0851555967908846
+    },
+    {
+     "name": "Strut_001",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.0851555967908824
+    },
+    {
+     "name": "Strut_002",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.0851555967908832
+    },
+    {
+     "name": "Strut_003",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.0851555967908815
+    },
+    {
+     "name": "Strut_004",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.085155596790884
+    },
+    {
+     "name": "Strut_005",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378961
+    },
+    {
+     "name": "Strut_006",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_007",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_008",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378962
+    },
+    {
+     "name": "Strut_009",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378963
+    },
+    {
+     "name": "Strut_010",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789605
+    },
+    {
+     "name": "Strut_011",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_012",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_013",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_014",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789605
+    },
+    {
+     "name": "Strut_015",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_016",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_017",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378961
+    },
+    {
+     "name": "Strut_018",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378964
+    },
+    {
+     "name": "Strut_019",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378961
+    },
+    {
+     "name": "Strut_020",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789622
+    },
+    {
+     "name": "Strut_021",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789605
+    },
+    {
+     "name": "Strut_022",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.18411576537896
+    },
+    {
+     "name": "Strut_023",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378963
+    },
+    {
+     "name": "Strut_024",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_025",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378962
+    },
+    {
+     "name": "Strut_026",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789605
+    },
+    {
+     "name": "Strut_027",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789605
+    },
+    {
+     "name": "Strut_028",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_029",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378962
+    },
+    {
+     "name": "Strut_030",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378962
+    },
+    {
+     "name": "Strut_031",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_032",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_033",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789622
+    },
+    {
+     "name": "Strut_034",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789636
+    },
+    {
+     "name": "Strut_035",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789622
+    },
+    {
+     "name": "Strut_036",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789627
+    },
+    {
+     "name": "Strut_037",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789605
+    },
+    {
+     "name": "Strut_038",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789622
+    },
+    {
+     "name": "Strut_039",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789627
+    },
+    {
+     "name": "Strut_040",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378962
+    },
+    {
+     "name": "Strut_041",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_042",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789605
+    },
+    {
+     "name": "Strut_043",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378962
+    },
+    {
+     "name": "Strut_044",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378961
+    },
+    {
+     "name": "Strut_045",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_046",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378964
+    },
+    {
+     "name": "Strut_047",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789596
+    },
+    {
+     "name": "Strut_048",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_049",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_050",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789636
+    },
+    {
+     "name": "Strut_051",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_052",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789622
+    },
+    {
+     "name": "Strut_053",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.184115765378963
+    },
+    {
+     "name": "Strut_054",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.1841157653789613
+    },
+    {
+     "name": "Strut_055",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.0851555967908824
+    },
+    {
+     "name": "Strut_056",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.085155596790884
+    },
+    {
+     "name": "Strut_057",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.0851555967908824
+    },
+    {
+     "name": "Strut_058",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.085155596790885
+    },
+    {
+     "name": "Strut_059",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.085155596790881
+    },
+    {
+     "name": "Strut_060",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974918
+    },
+    {
+     "name": "Strut_061",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797495
+    },
+    {
+     "name": "Strut_062",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797496
+    },
+    {
+     "name": "Strut_063",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974944
+    },
+    {
+     "name": "Strut_064",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_065",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974927
+    },
+    {
+     "name": "Strut_066",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797494
+    },
+    {
+     "name": "Strut_067",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_068",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974967
+    },
+    {
+     "name": "Strut_069",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_070",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974944
+    },
+    {
+     "name": "Strut_071",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974936
+    },
+    {
+     "name": "Strut_072",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974953
+    },
+    {
+     "name": "Strut_073",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797494
+    },
+    {
+     "name": "Strut_074",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_075",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797494
+    },
+    {
+     "name": "Strut_076",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797495
+    },
+    {
+     "name": "Strut_077",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974953
+    },
+    {
+     "name": "Strut_078",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_079",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797495
+    },
+    {
+     "name": "Strut_080",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974936
+    },
+    {
+     "name": "Strut_081",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974953
+    },
+    {
+     "name": "Strut_082",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974953
+    },
+    {
+     "name": "Strut_083",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974953
+    },
+    {
+     "name": "Strut_084",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974918
+    },
+    {
+     "name": "Strut_085",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_086",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974944
+    },
+    {
+     "name": "Strut_087",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974953
+    },
+    {
+     "name": "Strut_088",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797491
+    },
+    {
+     "name": "Strut_089",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797494
+    },
+    {
+     "name": "Strut_090",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974967
+    },
+    {
+     "name": "Strut_091",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797492
+    },
+    {
+     "name": "Strut_092",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797495
+    },
+    {
+     "name": "Strut_093",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974927
+    },
+    {
+     "name": "Strut_094",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974918
+    },
+    {
+     "name": "Strut_095",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797495
+    },
+    {
+     "name": "Strut_096",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974927
+    },
+    {
+     "name": "Strut_097",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974936
+    },
+    {
+     "name": "Strut_098",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797492
+    },
+    {
+     "name": "Strut_099",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974944
+    },
+    {
+     "name": "Strut_100",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797495
+    },
+    {
+     "name": "Strut_101",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974913
+    },
+    {
+     "name": "Strut_102",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797492
+    },
+    {
+     "name": "Strut_103",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974927
+    },
+    {
+     "name": "Strut_104",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974918
+    },
+    {
+     "name": "Strut_105",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797494
+    },
+    {
+     "name": "Strut_106",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_107",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797495
+    },
+    {
+     "name": "Strut_108",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974936
+    },
+    {
+     "name": "Strut_109",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797495
+    },
+    {
+     "name": "Strut_110",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_111",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797494
+    },
+    {
+     "name": "Strut_112",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974927
+    },
+    {
+     "name": "Strut_113",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974953
+    },
+    {
+     "name": "Strut_114",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974936
+    },
+    {
+     "name": "Strut_115",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797492
+    },
+    {
+     "name": "Strut_116",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974927
+    },
+    {
+     "name": "Strut_117",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.477253738797493
+    },
+    {
+     "name": "Strut_118",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974936
+    },
+    {
+     "name": "Strut_119",
+     "src": "CAD",
+     "mat": "GFRP",
+     "g": 2.4772537387974927
+    },
+    {
+     "name": "Hub_V_01",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6718652535567817
+    },
+    {
+     "name": "Cap_01",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001144
+    },
+    {
+     "name": "Hub_V_02",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6718652535567835
+    },
+    {
+     "name": "Cap_02",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001147
+    },
+    {
+     "name": "Hub_V_03",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6718652535567826
+    },
+    {
+     "name": "Cap_03",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001148
+    },
+    {
+     "name": "Hub_V_04",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6718652535567817
+    },
+    {
+     "name": "Cap_04",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001149
+    },
+    {
+     "name": "Hub_V_05",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6718652535567835
+    },
+    {
+     "name": "Cap_05",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001154
+    },
+    {
+     "name": "Hub_V_06",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.671865253556784
+    },
+    {
+     "name": "Cap_06",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.752725599800115
+    },
+    {
+     "name": "Hub_V_07",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.671865253556782
+    },
+    {
+     "name": "Cap_07",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001144
+    },
+    {
+     "name": "Hub_V_08",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6718652535567826
+    },
+    {
+     "name": "Cap_08",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001156
+    },
+    {
+     "name": "Hub_V_09",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.671865253556783
+    },
+    {
+     "name": "Cap_09",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001144
+    },
+    {
+     "name": "Hub_V_10",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6718652535567817
+    },
+    {
+     "name": "Cap_10",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001147
+    },
+    {
+     "name": "Hub_M_12",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708993
+    },
+    {
+     "name": "Cap_12",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001153
+    },
+    {
+     "name": "Hub_M_13",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089953
+    },
+    {
+     "name": "Cap_13",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001148
+    },
+    {
+     "name": "Hub_M_14",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708995
+    },
+    {
+     "name": "Cap_14",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001154
+    },
+    {
+     "name": "Hub_M_15",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089918
+    },
+    {
+     "name": "Cap_15",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001148
+    },
+    {
+     "name": "Hub_M_16",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089904
+    },
+    {
+     "name": "Cap_16",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001143
+    },
+    {
+     "name": "Hub_M_17",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708992
+    },
+    {
+     "name": "Cap_17",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001148
+    },
+    {
+     "name": "Hub_M_18",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089953
+    },
+    {
+     "name": "Cap_18",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001149
+    },
+    {
+     "name": "Hub_M_19",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089953
+    },
+    {
+     "name": "Cap_19",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001148
+    },
+    {
+     "name": "Hub_M_20",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708996
+    },
+    {
+     "name": "Cap_20",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001148
+    },
+    {
+     "name": "Hub_M_21",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089935
+    },
+    {
+     "name": "Cap_21",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001147
+    },
+    {
+     "name": "Hub_M_22",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089913
+    },
+    {
+     "name": "Cap_22",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001154
+    },
+    {
+     "name": "Hub_M_23",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708996
+    },
+    {
+     "name": "Cap_23",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001148
+    },
+    {
+     "name": "Hub_M_24",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089944
+    },
+    {
+     "name": "Cap_24",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.752725599800115
+    },
+    {
+     "name": "Hub_M_25",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089926
+    },
+    {
+     "name": "Cap_25",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001157
+    },
+    {
+     "name": "Hub_M_26",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089944
+    },
+    {
+     "name": "Cap_26",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001142
+    },
+    {
+     "name": "Hub_M_27",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089944
+    },
+    {
+     "name": "Cap_27",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001144
+    },
+    {
+     "name": "Hub_M_28",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089944
+    },
+    {
+     "name": "Cap_28",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001153
+    },
+    {
+     "name": "Hub_M_29",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089958
+    },
+    {
+     "name": "Cap_29",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001156
+    },
+    {
+     "name": "Hub_M_30",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708998
+    },
+    {
+     "name": "Cap_30",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001156
+    },
+    {
+     "name": "Hub_M_31",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089953
+    },
+    {
+     "name": "Cap_31",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001153
+    },
+    {
+     "name": "Hub_M_32",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708995
+    },
+    {
+     "name": "Cap_32",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001147
+    },
+    {
+     "name": "Hub_M_33",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708997
+    },
+    {
+     "name": "Cap_33",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.752725599800115
+    },
+    {
+     "name": "Hub_M_34",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089918
+    },
+    {
+     "name": "Cap_34",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001153
+    },
+    {
+     "name": "Hub_M_35",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708994
+    },
+    {
+     "name": "Cap_35",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001144
+    },
+    {
+     "name": "Hub_M_36",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089958
+    },
+    {
+     "name": "Cap_36",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001154
+    },
+    {
+     "name": "Hub_M_37",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708994
+    },
+    {
+     "name": "Cap_37",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001147
+    },
+    {
+     "name": "Hub_M_38",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089958
+    },
+    {
+     "name": "Cap_38",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001149
+    },
+    {
+     "name": "Hub_M_39",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.6162042587089918
+    },
+    {
+     "name": "Cap_39",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001147
+    },
+    {
+     "name": "Hub_M_40",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708991
+    },
+    {
+     "name": "Cap_40",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001153
+    },
+    {
+     "name": "Hub_M_41",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 2.616204258708996
+    },
+    {
+     "name": "Cap_41",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 0.7527255998001153
+    },
+    {
+     "name": "PoleHub_PosY",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 12.03693785591763
+    },
+    {
+     "name": "PoleCap_PosY",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 3.1885657469462703
+    },
+    {
+     "name": "Bearing_6800_2RS_PosY",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 5.5
+    },
+    {
+     "name": "PoleHub_NegY",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 12.036937855917627
+    },
+    {
+     "name": "PoleCap_NegY",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 3.1885657469462707
+    },
+    {
+     "name": "Bearing_6800_2RS_NegY",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 5.5
+    }
+   ]
+  },
+  "Frame + mounts": {
+   "mass": 259.38980023873967,
+   "cad": 234.38980023873967,
+   "cat": 25.0,
+   "items": [
+    {
+     "name": "Axle",
+     "src": "CAD",
+     "mat": "CF",
+     "g": 25.786192500665024
+    },
+    {
+     "name": "Arm_FR",
+     "src": "CAD",
+     "mat": "CF",
+     "g": 21.456715073914673
+    },
+    {
+     "name": "Arm_FL",
+     "src": "CAD",
+     "mat": "CF",
+     "g": 21.45671507391468
+    },
+    {
+     "name": "Arm_RL",
+     "src": "CAD",
+     "mat": "CF",
+     "g": 21.456715073914673
+    },
+    {
+     "name": "Arm_RR",
+     "src": "CAD",
+     "mat": "CF",
+     "g": 21.456715073914673
+    },
+    {
+     "name": "Plate_Bottom",
+     "src": "CAD",
+     "mat": "CF",
+     "g": 27.358765226691936
+    },
+    {
+     "name": "Plate_Top",
+     "src": "CAD",
+     "mat": "CF",
+     "g": 27.358765226691936
+    },
+    {
+     "name": "Plate_Deck",
+     "src": "CAD",
+     "mat": "CF",
+     "g": 13.990694482816279
+    },
+    {
+     "name": "AxleClamp_PosY",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 4.533152105516256
+    },
+    {
+     "name": "AxleClamp_NegY",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 4.533152105516256
+    },
+    {
+     "name": "Standoffs_Deck_M3",
+     "src": "CAD",
+     "mat": "Al",
+     "g": 3.6049775699942885
+    },
+    {
+     "name": "Standoffs_Stack_Posts",
+     "src": "CAD",
+     "mat": "Al",
+     "g": 11.48503442299357
+    },
+    {
+     "name": "Nose_Bracket",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 18.995498308783173
+    },
+    {
+     "name": "LiDAR_Mast",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 10.916707993412302
+    },
+    {
+     "name": "Fasteners_allowance",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 25.0
+    }
+   ]
+  },
+  "Motors": {
+   "mass": 248.0,
+   "cad": 0.0,
+   "cat": 248.0,
+   "items": [
+    {
+     "name": "Motor_FR",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 62.0
+    },
+    {
+     "name": "PropNut_FR",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.0
+    },
+    {
+     "name": "Motor_FL",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 62.0
+    },
+    {
+     "name": "PropNut_FL",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.0
+    },
+    {
+     "name": "Motor_RL",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 62.0
+    },
+    {
+     "name": "PropNut_RL",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.0
+    },
+    {
+     "name": "Motor_RR",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 62.0
+    },
+    {
+     "name": "PropNut_RR",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.0
+    }
+   ]
+  },
+  "ESC + props": {
+   "mass": 60.0,
+   "cad": 0.0,
+   "cat": 60.0,
+   "items": [
+    {
+     "name": "Prop_FR",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.0
+    },
+    {
+     "name": "Prop_FL",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.0
+    },
+    {
+     "name": "Prop_RL",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.0
+    },
+    {
+     "name": "Prop_RR",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.0
+    },
+    {
+     "name": "ESC_4in1_6S",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 28.0
+    }
+   ]
+  },
+  "Battery": {
+   "mass": 490.0,
+   "cad": 0.0,
+   "cat": 490.0,
+   "items": [
+    {
+     "name": "Battery_6S_3300",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 490.0
+    }
+   ]
+  },
+  "FC + avionics": {
+   "mass": 104.2,
+   "cad": 0.0,
+   "cat": 104.2,
+   "items": [
+    {
+     "name": "FC_Pixhawk6C_Mini",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 39.2
+    },
+    {
+     "name": "PowerModule_Buck",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 30.0
+    },
+    {
+     "name": "RadioPod_ESP32C3_LoRa_RX",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 27.0
+    },
+    {
+     "name": "LoRa_Antenna_868",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.0
+    }
+   ]
+  },
+  "Pi + cooler": {
+   "mass": 68.0,
+   "cad": 0.0,
+   "cat": 68.0,
+   "items": [
+    {
+     "name": "Pi5_Board",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 46.0
+    },
+    {
+     "name": "Pi5_PortBlock",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.0
+    },
+    {
+     "name": "Pi5_ActiveCooler",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 22.0
+    }
+   ]
+  },
+  "Sensors + lights": {
+   "mass": 83.0,
+   "cad": 0.0,
+   "cat": 83.0,
+   "items": [
+    {
+     "name": "LiDAR_STL19P",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 47.0
+    },
+    {
+     "name": "Camera_IMX327",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 15.0
+    },
+    {
+     "name": "Thermal_MLX90640",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 5.0
+    },
+    {
+     "name": "IR_LED_850nm_R",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 3.0
+    },
+    {
+     "name": "IR_LED_850nm_L",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 3.0
+    },
+    {
+     "name": "Sensor_harness_mounts_allowance",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 10.0
+    }
+   ]
+  },
+  "Gas package": {
+   "mass": 88.5734068339562,
+   "cad": 25.5734068339562,
+   "cat": 63.0,
+   "items": [
+    {
+     "name": "Gas_FlowCell",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 22.152212434196915
+    },
+    {
+     "name": "Gas_Sensors_O2_CO_H2S",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 36.0
+    },
+    {
+     "name": "Gas_Pump",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 25.0
+    },
+    {
+     "name": "GasInlet_Tube",
+     "src": "CAD",
+     "mat": "PTFE",
+     "g": 3.4211943997592837
+    },
+    {
+     "name": "GasInlet_Filter",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 2.0
+    }
+   ]
+  },
+  "Cassette + 5 pucks": {
+   "mass": 228.8161744240647,
+   "cad": 146.4161744240647,
+   "cat": 82.39999999999998,
+   "items": [
+    {
+     "name": "Cassette_Tube",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 18.225888329782794
+    },
+    {
+     "name": "Cassette_TopCap",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 10.724107121933363
+    },
+    {
+     "name": "BreakBeam_Collar",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 6.438012342474483
+    },
+    {
+     "name": "BreakBeam_IR_Pair",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 2.0
+    },
+    {
+     "name": "Pin_Release",
+     "src": "CAD",
+     "mat": "Steel",
+     "g": 1.387209506100743
+    },
+    {
+     "name": "Pin_Capture",
+     "src": "CAD",
+     "mat": "Steel",
+     "g": 1.165255985124624
+    },
+    {
+     "name": "Escapement_Cam",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 0.942477796076938
+    },
+    {
+     "name": "Servo_MG90S",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 13.4
+    },
+    {
+     "name": "Servo_Bracket",
+     "src": "CAD",
+     "mat": "PA12",
+     "g": 1.8577697363002281
+    },
+    {
+     "name": "Puck1_Puck_Shell_Base",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 5.7756087797783024
+    },
+    {
+     "name": "Puck1_Puck_Shell_Lid",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 6.745988867569642
+    },
+    {
+     "name": "Puck1_Puck_Bumper_TPU",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 3.2572032632419026
+    },
+    {
+     "name": "Puck1_Puck_PCB",
+     "src": "CAD",
+     "mat": "FR4",
+     "g": 5.356289810664447
+    },
+    {
+     "name": "Puck1_Puck_LiPo_1S_400",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.5
+    },
+    {
+     "name": "Puck1_Puck_ESP32C3_MINI1",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.0
+    },
+    {
+     "name": "Puck1_Puck_RFM95W_868",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.5
+    },
+    {
+     "name": "Puck1_Puck_Antenna_Stub",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck1_Puck_ChargePads",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.4
+    },
+    {
+     "name": "Puck1_Puck_Passives_LED_Hall",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck1_AprilTag",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.8
+    },
+    {
+     "name": "Puck2_Puck_Shell_Base",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 5.775608779778307
+    },
+    {
+     "name": "Puck2_Puck_Shell_Lid",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 6.745988867569637
+    },
+    {
+     "name": "Puck2_Puck_Bumper_TPU",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 3.2572032632419026
+    },
+    {
+     "name": "Puck2_Puck_PCB",
+     "src": "CAD",
+     "mat": "FR4",
+     "g": 5.356289810664447
+    },
+    {
+     "name": "Puck2_Puck_LiPo_1S_400",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.5
+    },
+    {
+     "name": "Puck2_Puck_ESP32C3_MINI1",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.0
+    },
+    {
+     "name": "Puck2_Puck_RFM95W_868",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.5
+    },
+    {
+     "name": "Puck2_Puck_Antenna_Stub",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck2_Puck_ChargePads",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.4
+    },
+    {
+     "name": "Puck2_Puck_Passives_LED_Hall",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck2_AprilTag",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.8
+    },
+    {
+     "name": "Puck3_Puck_Shell_Base",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 5.775608779778307
+    },
+    {
+     "name": "Puck3_Puck_Shell_Lid",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 6.745988867569637
+    },
+    {
+     "name": "Puck3_Puck_Bumper_TPU",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 3.2572032632419026
+    },
+    {
+     "name": "Puck3_Puck_PCB",
+     "src": "CAD",
+     "mat": "FR4",
+     "g": 5.356289810664447
+    },
+    {
+     "name": "Puck3_Puck_LiPo_1S_400",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.5
+    },
+    {
+     "name": "Puck3_Puck_ESP32C3_MINI1",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.0
+    },
+    {
+     "name": "Puck3_Puck_RFM95W_868",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.5
+    },
+    {
+     "name": "Puck3_Puck_Antenna_Stub",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck3_Puck_ChargePads",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.4
+    },
+    {
+     "name": "Puck3_Puck_Passives_LED_Hall",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck3_AprilTag",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.8
+    },
+    {
+     "name": "Puck4_Puck_Shell_Base",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 5.775608779778304
+    },
+    {
+     "name": "Puck4_Puck_Shell_Lid",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 6.745988867569637
+    },
+    {
+     "name": "Puck4_Puck_Bumper_TPU",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 3.2572032632419026
+    },
+    {
+     "name": "Puck4_Puck_PCB",
+     "src": "CAD",
+     "mat": "FR4",
+     "g": 5.356289810664455
+    },
+    {
+     "name": "Puck4_Puck_LiPo_1S_400",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.5
+    },
+    {
+     "name": "Puck4_Puck_ESP32C3_MINI1",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.0
+    },
+    {
+     "name": "Puck4_Puck_RFM95W_868",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.5
+    },
+    {
+     "name": "Puck4_Puck_Antenna_Stub",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck4_Puck_ChargePads",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.4
+    },
+    {
+     "name": "Puck4_Puck_Passives_LED_Hall",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck4_AprilTag",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.8
+    },
+    {
+     "name": "Puck5_Puck_Shell_Base",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 5.7756087797783024
+    },
+    {
+     "name": "Puck5_Puck_Shell_Lid",
+     "src": "CAD",
+     "mat": "PETG",
+     "g": 6.74598886756964
+    },
+    {
+     "name": "Puck5_Puck_Bumper_TPU",
+     "src": "CAD",
+     "mat": "TPU",
+     "g": 3.2572032632419026
+    },
+    {
+     "name": "Puck5_Puck_PCB",
+     "src": "CAD",
+     "mat": "FR4",
+     "g": 5.356289810664455
+    },
+    {
+     "name": "Puck5_Puck_LiPo_1S_400",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 8.5
+    },
+    {
+     "name": "Puck5_Puck_ESP32C3_MINI1",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.0
+    },
+    {
+     "name": "Puck5_Puck_RFM95W_868",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 1.5
+    },
+    {
+     "name": "Puck5_Puck_Antenna_Stub",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck5_Puck_ChargePads",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.4
+    },
+    {
+     "name": "Puck5_Puck_Passives_LED_Hall",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.6
+    },
+    {
+     "name": "Puck5_AprilTag",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 0.8
+    }
+   ]
+  },
+  "Wiring": {
+   "mass": 80.0,
+   "cad": 0.0,
+   "cat": 80.0,
+   "items": [
+    {
+     "name": "Wiring_allowance",
+     "src": "catalogue",
+     "mat": "bought",
+     "g": 80.0
+    }
+   ]
+  }
+ },
+ "alloc": [
+  [
+   "Cage",
+   400
+  ],
+  [
+   "Frame + mounts",
+   300
+  ],
+  [
+   "Motors",
+   250
+  ],
+  [
+   "ESC + props",
+   100
+  ],
+  [
+   "Battery",
+   490
+  ],
+  [
+   "FC + avionics",
+   100
+  ],
+  [
+   "Pi + cooler",
+   100
+  ],
+  [
+   "Sensors + lights",
+   140
+  ],
+  [
+   "Gas package",
+   100
+  ],
+  [
+   "Cassette + 5 pucks",
+   170
+  ],
+  [
+   "Wiring",
+   80
+  ]
+ ],
+ "density": {
+  "GFRP": 2.0,
+  "CF": 1.6,
+  "PA12": 1.0,
+  "PETG": 1.27,
+  "TPU": 1.2,
+  "Al": 2.7,
+  "Steel": 7.85,
+  "FR4": 1.85,
+  "PTFE": 2.2
+ },
+ "puck_cg_local_mm": [
+  0.21935693808094356,
+  0.2346665222293757,
+  7.961324276330771
+ ],
+ "puck_parts": [
+  {
+   "name": "Puck_Shell_Base",
+   "src": "CAD",
+   "mat": "PETG",
+   "g": 5.775608779778299
+  },
+  {
+   "name": "Puck_Shell_Lid",
+   "src": "CAD",
+   "mat": "PETG",
+   "g": 6.745988867569642
+  },
+  {
+   "name": "Puck_Bumper_TPU",
+   "src": "CAD",
+   "mat": "TPU",
+   "g": 3.2572032632419026
+  },
+  {
+   "name": "Puck_PCB",
+   "src": "CAD",
+   "mat": "FR4",
+   "g": 5.356289810664454
+  },
+  {
+   "name": "Puck_LiPo_1S_400",
+   "src": "catalogue",
+   "mat": "bought",
+   "g": 8.5
+  },
+  {
+   "name": "Puck_ESP32C3_MINI1",
+   "src": "catalogue",
+   "mat": "bought",
+   "g": 1.0
+  },
+  {
+   "name": "Puck_RFM95W_868",
+   "src": "catalogue",
+   "mat": "bought",
+   "g": 1.5
+  },
+  {
+   "name": "Puck_Antenna_Stub",
+   "src": "catalogue",
+   "mat": "bought",
+   "g": 0.6
+  },
+  {
+   "name": "Puck_ChargePads",
+   "src": "catalogue",
+   "mat": "bought",
+   "g": 0.4
+  },
+  {
+   "name": "Puck_Passives_LED_Hall",
+   "src": "catalogue",
+   "mat": "bought",
+   "g": 0.6
+  }
+ ],
+ "puck_dome_radius_mm": 136.45
+}

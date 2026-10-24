@@ -1,0 +1,142 @@
+# FreeCAD GUI macro: open SURANG-SUTRA.FCStd, colour by material, isometric view, expand tree,
+# grab the main window to renders/freecad-ui.png, save colours into the FCStd, quit.
+import FreeCAD as App, FreeCADGui as Gui
+from PySide import QtCore, QtGui
+try:
+    from PySide import QtWidgets
+except ImportError:
+    QtWidgets = QtGui
+FN = '/home/shubh/_Active_Projects/SURANG-SUTRA-VK26/cad/SURANG-SUTRA.FCStd'
+OUT = '/home/shubh/_Active_Projects/SURANG-SUTRA-VK26/renders/freecad-ui.png'
+COL = {'GFRP': (0.85, 0.76, 0.43), 'PA12': (0.84, 0.85, 0.87), 'TPU': (0.11, 0.30, 0.85), 'CF': (0.17, 0.18, 0.20),
+       'PETG': (0.80, 0.88, 0.97), 'battery': (0.28, 0.33, 0.41), 'Steel': (0.62, 0.64, 0.67), 'Al': (0.62, 0.64, 0.67),
+       'motor': (0.23, 0.26, 0.31), 'prop': (0.06, 0.09, 0.16), 'pcb': (0.08, 0.50, 0.24), 'FR4': (0.08, 0.50, 0.24),
+       'esc': (0.07, 0.09, 0.15), 'fc': (0.20, 0.25, 0.33), 'electronics': (0.12, 0.16, 0.23), 'lidar': (0.06, 0.09, 0.16),
+       'camera': (0.07, 0.09, 0.15), 'irled': (0.5, 0.11, 0.11), 'amber': (0.85, 0.47, 0.02), 'ptfe': (0.95, 0.96, 0.98),
+       'metal': (0.65, 0.68, 0.71), 'servo': (0.12, 0.16, 0.23), 'module': (0.55, 0.58, 0.65), 'brass': (0.72, 0.47, 0.12),
+       'steel': (0.62, 0.64, 0.67), 'pa12': (0.84, 0.85, 0.87)}
+
+doc = App.openDocument(FN)
+Gui.activateWorkbench('PartDesignWorkbench')
+for o in doc.Objects:
+    vo = getattr(o, 'ViewObject', None)
+    if vo is None:
+        continue
+    m = getattr(o, 'SurangMaterial', None)
+    if m in COL and hasattr(vo, 'ShapeColor') and o.TypeId != 'App::Link':
+        try:
+            vo.ShapeColor = COL[m]
+        except Exception:
+            pass
+    if o.Name.startswith('PropDisc_') or o.Name == 'Puck_AprilTag_Label':
+        vo.Visibility = False
+def descend(o, acc):
+    acc.add(o.Name)
+    for c in getattr(o, 'Group', []) or []:
+        descend(c, acc)
+    return acc
+hidden = set()
+for nm in ('Part_Library', 'Render_Helpers'):
+    g = doc.getObject(nm)
+    if g:
+        descend(g, hidden)
+for o in doc.Objects:
+    vo = getattr(o, 'ViewObject', None)
+    if vo is None or o.TypeId == 'Spreadsheet::Sheet':
+        continue
+    body = o.getParentGeoFeatureGroup() if hasattr(o, 'getParentGeoFeatureGroup') else None
+    if o.Name in hidden or o.TypeId.startswith(('App::Origin', 'App::Line', 'App::Plane', 'Sketcher')):
+        vo.Visibility = False
+    elif body is not None and body.TypeId == 'PartDesign::Body' and o is not body.Tip:
+        vo.Visibility = False
+    else:
+        vo.Visibility = True
+for nm in ('Part_Library', 'Render_Helpers'):
+    g = doc.getObject(nm)
+    if g:
+        g.ViewObject.Visibility = False
+for o in doc.Objects:
+    if o.Name.startswith('PropDisc_') or o.Name == 'Puck_AprilTag_Label':
+        o.ViewObject.Visibility = False
+doc.getObject('Params').ViewObject.Visibility = False if hasattr(doc.getObject('Params').ViewObject, 'Visibility') else None
+mw = Gui.getMainWindow()
+mw.showFullScreen()
+
+def close_start():
+    for mdi in mw.findChildren(QtWidgets.QMdiArea):
+        for sw in mdi.subWindowList():
+            if 'SURANG' in sw.windowTitle():
+                mdi.setActiveSubWindow(sw)
+close_start()
+v = Gui.getDocument(doc.Name).mdiViewsOfType('Gui::View3DInventor')[0] if hasattr(Gui.getDocument(doc.Name), 'mdiViewsOfType') else Gui.ActiveDocument.ActiveView
+v.viewIsometric(); v.fitAll()
+try:
+    v.setAxisCross(False)
+except Exception:
+    pass
+
+EXPAND = ('SURANG-SUTRA', 'SURANG_SUTRA_Assembly', 'Cage', 'Frame', 'Cassette', 'Part_Library', 'CageHub_V5')
+NOEXP = ('Cage_', 'Origin', 'Arm', 'Plate_Sandwich', 'CageHub_M6', 'PoleHub', 'SUTRA_Puck', 'Axle', 'Plate_Deck',
+         'Nose_Bracket', 'LiDAR_Mast', 'Cassette_', 'BreakBeam_Collar', 'Pad_')
+def expand_tree():
+    for tw in mw.findChildren(QtWidgets.QTreeWidget):
+        it = QtWidgets.QTreeWidgetItemIterator(tw)
+        while it.value():
+            item = it.value()
+            t = item.text(0)
+            if t.startswith(NOEXP):
+                item.setExpanded(False)
+            elif t == 'Cage' or any(t == e or t.startswith(e + ' ') for e in EXPAND):
+                item.setExpanded(True)
+            it += 1
+        tw.resizeColumnToContents(0)
+    for sp in mw.findChildren(QtWidgets.QSplitter):
+        if sp.orientation() == QtCore.Qt.Vertical and sp.count() == 2 and sp.findChildren(QtWidgets.QTreeWidget):
+            sp.setSizes([880, 60])
+    for dw in mw.findChildren(QtWidgets.QDockWidget):
+        if dw.windowTitle() in ('Model', 'Tree view', 'Combo View'):
+            try:
+                mw.resizeDocks([dw], [520], QtCore.Qt.Horizontal)
+            except Exception:
+                pass
+
+def shoot():
+    close_start()
+    expand_tree()
+    for dw in mw.findChildren(QtWidgets.QDockWidget):
+        if dw.windowTitle() in ('Tasks', 'Task View'):
+            dw.hide()
+    QtWidgets.QApplication.processEvents()
+    dbg = open('/tmp/claude-1000/-home-shubh--Active-Projects-NO-SUS/05f5e46c-6256-4ffb-97b4-b94e319a17fd/scratchpad/gui_dbg.txt', 'w')
+    try:
+        gd = Gui.getDocument(doc.Name)
+        Gui.ActiveDocument = gd
+        vv = gd.ActiveView if hasattr(gd, 'ActiveView') else gd.activeView()
+        dbg.write(f'view {vv} {type(vv)}\n')
+        vv.viewIsometric()
+        vv.fitAll()
+        QtWidgets.QApplication.processEvents()
+        import re
+        cs = vv.getCamera()
+        dbg.write(cs + '\n')
+        m = re.search(r'height\s+([0-9.eE+-]+)', cs)
+        if m:
+            cs2 = cs[:m.start(1)] + repr(float(m.group(1)) * 0.52) + cs[m.end(1):]
+            vv.setCamera(cs2)
+        QtWidgets.QApplication.processEvents()
+    except Exception as e:
+        import traceback; dbg.write(traceback.format_exc())
+    dbg.close()
+    QtWidgets.QApplication.processEvents()
+    mw.grab().save(OUT)
+    App.Console.PrintMessage('SCREENSHOT SAVED\n')
+    doc.save()
+    App.closeDocument(doc.Name)
+    QtCore.QTimer.singleShot(500, QtWidgets.QApplication.instance().quit)
+
+def step2():
+    expand_tree()
+    v.viewIsometric(); Gui.SendMsgToActiveView('ViewFit')
+    QtCore.QTimer.singleShot(2500, shoot)
+
+QtCore.QTimer.singleShot(2500, step2)

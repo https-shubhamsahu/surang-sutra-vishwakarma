@@ -10,3 +10,7 @@ deck/
 *.kicad_prl
 **/fp-info-cache
 **/*-backups/
+# working notes and preview renders
+NEXT-STEPS.md
+renders/_raw/*_preview.*
+fea/data/fea_results.pkl

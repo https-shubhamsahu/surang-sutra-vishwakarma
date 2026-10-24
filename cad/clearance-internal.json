@@ -1,0 +1,52 @@
+{
+ "prop_to_parts": [
+  {
+   "prop": "FR",
+   "min_mm": 10.7570818473669,
+   "nearest": "Nose_Bracket"
+  },
+  {
+   "prop": "FL",
+   "min_mm": 10.757081847366898,
+   "nearest": "Nose_Bracket"
+  },
+  {
+   "prop": "RL",
+   "min_mm": 12.225810307407382,
+   "nearest": "Plate_Deck"
+  },
+  {
+   "prop": "RR",
+   "min_mm": 12.225810307407382,
+   "nearest": "Plate_Deck"
+  }
+ ],
+ "parts_vs_hull": {
+  "hull_mm": 269.4099840991875,
+  "worst_clear_mm": 32.71043589519692,
+  "part": "Prop_FL",
+  "r_max_mm": 236.6995482039906
+ },
+ "overlaps": [
+  {
+   "a": "Standoffs_Stack_Posts",
+   "b": "Pi5_Board",
+   "mm3": 250.5
+  },
+  {
+   "a": "Nose_Bracket",
+   "b": "Thermal_MLX90640",
+   "mm3": 3.7
+  },
+  {
+   "a": "Pin_Capture",
+   "b": "Puck2_Puck_Bumper_TPU",
+   "mm3": 7.0
+  },
+  {
+   "a": "Escapement_Cam",
+   "b": "Servo_MG90S",
+   "mm3": 29.5
+  }
+ ]
+}

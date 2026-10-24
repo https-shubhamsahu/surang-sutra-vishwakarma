@@ -68,3 +68,13 @@ Those changes become the "Stage 1 → Stage 2 design iterations" on the deck, so
 - White background, sans font (Inter or DejaVu Sans), 2400 px wide or more, PNG. Also export SVG for diagrams.
 - Colours: blue #1D4ED8, green #16A34A, ink #0F172A, slate #475569, light panel #F0FDF4, amber accent #D97706 (warnings), red #DC2626 (critical stress only).
 - Anything AI-generated or AI-assisted that ends up in the deck will carry an "AI Generated" label. Don't bake fake photos into figures.
+
+## Stage 2 changes found by the analysis (24 Oct 2026)
+These replace the values above. Details in `cad/README.md` and `fea/README.md`.
+- **Cage struts:** 3 mm → **4 mm** pultruded GFRP. **Axle:** 10/8 → **15/13 mm** carbon tube, bearings 6800 → **61802-2RS (15×24×5)**. **Hub caps:** 5 mm solid TPU 95A → **20 mm soft TPU**. Why: the 3 mm cage reaches allowable stress at 1.7 J and breaks struts in a 2 m/s strike; the selected cage takes 5.3 J and stays under allowable at all hub types at the 1.5 m/s speed limit.
+- **Envelope:** about Ø630 mm over the soft caps, so the scout needs ≥ 0.65 m openings (was 0.6 m).
+- **Mass target:** ≤ 2.4 → **≤ 2.5 kg**. The CAD is 2.17 kg with the Stage 1 cage and 2.47 kg with the selected one. Calculated T/W at minimum voltage 3.2 (1250 KV), hover ≈ 6.5 min, roll ≈ 30 min.
+- **Puck exit:** the cassette moves from the centreline to **y = +54 mm**, because the equator strut ring blocks a centred drop at every cage angle.
+- **After a drop:** hop in fly mode before rolling on (a 20 mm puck under the cage would be struck).
+- **Puck:** 34.5 g as drawn; 1.0 mm walls and a 1.0 mm PCB bring it to about 29 g. The dome does not self-right, so the AprilTag goes on both faces.
+- **Motors are never cut in the air:** no cage variant survives a 1 m fall onto one hub.
